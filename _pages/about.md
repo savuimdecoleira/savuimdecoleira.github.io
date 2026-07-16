@@ -13,7 +13,7 @@ Forest Engineer graduated from the Federal University of Amazonas, currently pur
 
 **My interests** 🌳
 ------
-🛰️ Forest and ecological relationships analyzed through remote sensing products and data, especially in tropical regions
-🗺️ Geotechnologies and remote sensing
-🪵 Forest management and harvesting
-🍃 Ecophysiology
+- 🛰️ Forest and ecological relationships analyzed through remote sensing products and data, especially in tropical regions
+- 🗺️ Geotechnologies and remote sensing
+- 🪵 Forest management and harvesting
+- 🍃 Ecophysiology
